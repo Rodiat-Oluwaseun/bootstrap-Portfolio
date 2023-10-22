@@ -106,3 +106,10 @@ p {
   padding-bottom: 20px;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: grey;
+  color: #111111;
+}
